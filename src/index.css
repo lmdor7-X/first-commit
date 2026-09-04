@@ -1,0 +1,22 @@
+body{
+  color: white;
+  background-color: black;
+}
+
+#up{
+  display: flex;
+}
+
+button{
+  background-color: brown;
+  color: white;
+  margin-top: 20px;
+  border: none;
+  border-radius: 5px;
+  padding: 0.3rem;
+  
+}
+select{
+  padding: 0.25rem;
+  margin: 0.7rem 0;
+}
